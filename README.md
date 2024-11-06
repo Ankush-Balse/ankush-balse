@@ -8,10 +8,6 @@
 - 📫 How to reach me **ankushbalse87@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<div id="yourname">
-<label for="input-yourname">Name </label>
-<input type="text" name="yourname" id="input-yourname">
-</div>
 <p align="left">
 <a href="https://linkedin.com/in/ankushbalse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankushbalse" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ankushbalse87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ankushbalse87" height="30" width="40" /></a>
